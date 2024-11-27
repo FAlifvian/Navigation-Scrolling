@@ -1,5 +1,7 @@
 # Navigation Bar
 
+## About
+
 This project creates a navigation bar that has a function of: <br>
 - Views the section that is linked with navigation links when users click it. 
 The scrolling behaviour to its linked section is provided using *easeInSin* easing function.
@@ -8,4 +10,14 @@ The scrolling behaviour to its linked section is provided using *easeInSin* easi
 
 <br>
 
-The HTML and CSS file is written to support JavaScript Navigation Bar to run.
+The HTML and CSS file is written to support Vanilla JavaScript Navigation Bar to run.
+
+## Example
+
+- Scrolling page: <br>
+![Navigation-Scroll](https://github.com/FAlifvian/Navigation-Tracking-Bar/blob/main/img/gif/NavBar-Scrolling.gif)
+<br>
+
+- Clicking navigation link: <br>
+![Navigation-Click](https://github.com/FAlifvian/Navigation-Tracking-Bar/blob/main/img/gif/NavBar-Click.gif)
+
